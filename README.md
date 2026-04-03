@@ -1,4 +1,4 @@
-# Sleep-Disorder-Classification-Using-Optimizes-Ensemble-Machine-Learning-and-Genetic-Algorithms
+💤 Sleep Disorder Classification Using Optimized Machine Learning Models
 
 This project focuses on the classification of sleep disorders such as insomnia and sleep apnea using demographic, lifestyle, and health-related data. The objective is to build an accurate and reliable machine learning system that can assist in early detection of sleep disorders and support healthcare decision-making.
 
